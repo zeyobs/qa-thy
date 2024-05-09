@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directories used by tools like selenium-webdriver
+.screenshot/
+.reports/
+
+# Node modules and Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# IDE / Editor
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Operating System Files
+.DS_Store
+Thumbs.db
